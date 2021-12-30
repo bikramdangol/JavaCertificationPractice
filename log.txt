@@ -1,0 +1,12 @@
+51
+Hello this is a log file.
+This is another line.51
+Hello this is appended text.
+There are 300 houses.This is another appended line.51
+Hello this is appended text.
+There are 300 houses.
+This is another appended line.
+51
+Hello this is appended text.
+There are 300 houses.
+This is another appended line.
