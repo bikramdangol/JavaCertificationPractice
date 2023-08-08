@@ -16,7 +16,8 @@ public class TestQuestion {
     }
 
     public static int getNumber(TestQuestion q) {
-        return 5;
+        return q.getNumberMinutes();
+//        return 5;
     }
     public static void main(String[] args) {
         Stream<TestQuestion> runners = Stream.of(new TestQuestion(183), new TestQuestion(161), new TestQuestion(201));
